@@ -6,6 +6,6 @@
 
 For more details, please see the [write up](WriteUp.pdf).
 
-![](working.gif)
+![](working_cropped.gif)
 
 *Archived. 2018*
