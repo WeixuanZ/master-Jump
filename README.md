@@ -8,4 +8,4 @@ For more details, please see the [write up](WriteUp.pdf).
 
 ![](working.gif)
 
-*Archived. Project did in 2018.*
+*Archived. 2018*
